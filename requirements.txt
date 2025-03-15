@@ -1,0 +1,11 @@
+PyQt5>=5.15.0
+requests>=2.25.0
+Pillow>=8.0.0
+cairosvg>=2.5.0; platform_system != "Windows" or python_version < "3.9"
+opencv-python>=4.5.0
+rembg>=2.0.0
+numpy>=1.19.0
+tqdm>=4.50.0
+urllib3>=1.26.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
