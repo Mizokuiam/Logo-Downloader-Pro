@@ -1,7 +1,5 @@
 # Logo Downloader Pro
 
-![Logo Downloader Pro](assets/logo.png)
-
 A professional tool for searching, downloading, and managing company logos with advanced features.
 
 ![Application Screenshot](assets/screenshot_app.png)
